@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*
-** Função : Verifica se um número é um número de Carmichael
+** Função : Verifica se dois arrays são permutações circulares um do outro.
 ** Autor : Francisco Paulino
 ** Data : 12/04/2024
 ** Observações:
